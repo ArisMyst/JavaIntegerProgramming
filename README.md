@@ -1,5 +1,6 @@
 # JavaIntegerProgramming
-Part of MBA theisis dissertationg: Labour Management - Nurse rostering optimization for an oncology clinin using Integer Programming and Java with CPLEX library
+Part of MBA theisis dissertationg: Labour Management - Nurse rostering optimization for an oncology clinin using Integer Programming and Java with CPLEX library:
+
 The current thesis is a presentation, analysis and solution of the rostering optimization problem faced by the oncology clinic of Papageorgiou Hospital of Thessaloniki. 
 The problem that arises is an Integer Programming problem. In this scheduling problem, there is an imbalance in the number and type of shifts (morning, noon, evening) 
 that is covered by the human resources of the clinic. 
